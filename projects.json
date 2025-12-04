@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Sample Todo App",
+    "description": "A minimal todo app demonstrating DOM manipulation and localStorage.",
+    "repo_url": "https://github.com/lori28167/todo-sample",
+    "live_url": "#",
+    "tags": ["vanilla-js","ui"]
+  },
+  {
+    "title": "Static Portfolio",
+    "description": "This static portfolio site built with HTML, CSS and a tiny JS loader.",
+    "repo_url": "https://github.com/lori28167/portfolio",
+    "live_url": "#",
+    "tags": ["html","css"]
+  }
+]
